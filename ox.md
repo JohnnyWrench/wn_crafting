@@ -1,179 +1,194 @@
 ```lua
-["applecider"] = { 
-    label = 'Applecider', 
+applecider = { 
+    label = 'Apple Jack', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'applecider.png' } 
+    client = {  } 
 },
-["applemash"] = { 
-    label = 'Applemash', 
+applemash = { 
+    label = 'Apple Mash', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'applemash.png' } 
+    client = {  } 
 },
-["barley"] = { 
+barley = { 
     label = 'Barley', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'barley.png' } 
+    client = {  } 
 },
-["barleysack"] = { 
-    label = 'Barleysack', 
+barleysack = { 
+    label = 'Sack of Barley', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'barleysack.png' } 
+    client = {  } 
 },
-["corn"] = { 
+corn = { 
     label = 'Corn', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'corn.png' } 
+    client = {  } 
 },
-["corncrate"] = { 
-    label = 'Corncrate', 
+corncrate = { 
+    label = 'Crate of Corn', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'corncrate.png' } 
+    client = {  } 
 },
-["illegalvodka"] = { 
-    label = 'Illegalvodka', 
+illegalvodka = { 
+    label = 'Illegally Distilled Vodka', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'illegalvodka.png' } 
+    client = {  } 
 },
-["moonshine"] = { 
+moonshine = { 
     label = 'Moonshine', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'moonshine.png' } 
+    client = { } 
 },
-["moonshinemash"] = { 
-    label = 'Moonshinemash', 
+moonshinemash = { 
+    label = 'Moonshine Mash', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'moonshinemash.png' } 
+    client = {  } 
 },
-["peach"] = { 
+peach = { 
     label = 'Peach', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'peach.png' } 
+    client = {  } 
 },
-["peachbrandy"] = { 
-    label = 'Peachbrandy', 
+peachbrandy = { 
+    label = 'Peach Brandy', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'peachbrandy.png' } 
+    client = {  } 
 },
-["peachcrate"] = { 
-    label = 'Peachcrate', 
+peachcrate = { 
+    label = 'Crate of Peaches', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'peachcrate.png' } 
+    client = {  } 
 },
-["peachmash"] = { 
-    label = 'Peachmash', 
+peachmash = { 
+    label = 'Peach Mash', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'peachmash.png' } 
+    client = {  } 
 },
-["potato"] = { 
+potato = { 
     label = 'Potato', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'potato.png' } 
+    client = {  } 
 },
-["potatosack"] = { 
-    label = 'Potatosack', 
+potatosack = { 
+    label = 'Sack of Potatoes', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'potatosack.png' } 
+    client = {  } 
 },
-["sugar"] = { 
+sugar = { 
     label = 'Sugar', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'sugar.png' } 
+    client = {  } 
 },
-["sugarsack"] = { 
-    label = 'Sugarsack', 
+sugarsack = { 
+    label = 'Sack of Sugar', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'sugarsack.png' } 
+    client = {  } 
 },
-["vodkamash"] = { 
-    label = 'Vodkamash', 
+vodkamash = { 
+    label = 'Vodka Mash', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'vodkamash.png' } 
+    client = {  } 
 },
-["waterjug"] = { 
-    label = 'Waterjug', 
+waterjug = { 
+    label = 'Jug of Water', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'waterjug.png' } 
+    client = {  } 
 },
-["wheat"] = { 
+wheat = { 
     label = 'Wheat', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'wheat.png' } 
+    client = {  } 
 },
-["wheatbag"] = { 
-    label = 'Wheatbag', 
+wheatbag = { 
+    label = 'A Bag of Wheat', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'wheatbag.png' } 
+    client = {  } 
 },
-["yeast"] = { 
-    label = 'Yeast', 
+yeast = { 
+    label = 'Yeast Package', 
     description = "", 
     weight = 100, 
     stack = true, 
     close = true, 
-    client = { image = 'yeast.png' } 
+    client = {  } 
 },
-
+apple = { 
+    label = 'Apple', 
+    description = "", 
+    weight = 100, 
+    stack = true, 
+    close = true, 
+    client = {  } 
+},
+applecrate = { 
+    label = 'Crate of Apples', 
+    description = "", 
+    weight = 100, 
+    stack = true, 
+    close = true, 
+    client = {  } 
+},
 ```
