@@ -1,5 +1,7 @@
 ```lua
-applecider = { name = 'applecider', label = 'Applecider', weight = 100, type = 'item', image = 'applecider.png', unique = false, useable = true, shouldClose = true, description = "" },
+apple = { name = 'apple', label = 'Apple', weight = 100, type = 'item', image = 'apple.png', unique = false, useable = true, shouldClose = true, description = "" },
+applecider = { name = 'applecider', label = 'Apple Jack', weight = 100, type = 'item', image = 'applecider.png', unique = false, useable = true, shouldClose = true, description = "" },
+applecrate = { name = 'applecrate', label = 'Apple Crate', weight = 100, type = 'item', image = 'applecider.png', unique = false, useable = true, shouldClose = true, description = "" },
 applemash = { name = 'applemash', label = 'Applemash', weight = 100, type = 'item', image = 'applemash.png', unique = false, useable = true, shouldClose = true, description = "" },
 barley = { name = 'barley', label = 'Barley', weight = 100, type = 'item', image = 'barley.png', unique = false, useable = true, shouldClose = true, description = "" },
 barleysack = { name = 'barleysack', label = 'Barleysack', weight = 100, type = 'item', image = 'barleysack.png', unique = false, useable = true, shouldClose = true, description = "" },
